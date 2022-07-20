@@ -38,3 +38,4 @@ nb-configuration.xml
 
 # Mac
 .DS_Store
+/bin/
